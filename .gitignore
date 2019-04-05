@@ -1,4 +1,6 @@
 build/*
 
 
-.user
+# QtCreator CMake
+CMakeLists.txt.user*
+
